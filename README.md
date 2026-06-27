@@ -92,4 +92,4 @@ Using this in GTA Online public sessions may violate Rockstar's Terms of Service
 
 ## 📸 Follow
 
-- Instagram: [@meluv__v.gta](https://www.instagram.com/meluv__v/)
+- Instagram: [@meluv__v](https://www.instagram.com/meluv__v/)
