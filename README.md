@@ -59,21 +59,6 @@
 
 ---
 
-## 📝 Changelog
-
-### v1.80 — Code Refactor & Bug Fixes
-- Refactored 500+ lines of repetitive code into clean data-driven loops (Ranks, K/D, Removed Vehicles)
-- Fixed `gui.show_message` spam inside ALL TATTOOS and LSCM REP loops
-- Fixed redundant K/D logic that was silently overwriting custom K/D inputs
-- Fixed broken FROZEN -1000 K/D value (was using wrong ratio)
-- Added transaction cooldown to prevent money drop state machine breaking on double-click
-- Fixed undefined `NLCl` variable crash in Nightclub loop
-- Fixed "UNLCOKED" typo in Skull Tattoo message
-- Fixed trailing comma typo in Crew Rank editor message
-- Localized global variables (`player_male`, `FMISSIONC`, etc.) to proper scope
-
----
-
 ## ⚠️ Disclaimer
 
 This script is intended for **educational and offline/private session use only**.  
