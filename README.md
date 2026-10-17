@@ -39,7 +39,7 @@
 
 ## 📦 Installation
 
-1. Make sure you have **[YimMenu](https://github.com/YimMenu/YimMenu)** installed
+1. Make sure you have **[YimMenu](https://github.com/Mr-X-GTA/YimMenu)** installed
 2. Download `Eudora.lua` and `metadata.json`
 3. Place both files into your YimMenu scripts folder:
    ```
